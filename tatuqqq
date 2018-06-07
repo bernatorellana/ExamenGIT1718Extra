@@ -1,0 +1,27 @@
+* [1;34mdab8200[m - [1;32m(56 seconds ago)[m [37mSaboteur strikes back 2[m [2;37m- Bernat[m[1;31m (HEAD -> v1_devel_Perez_Daniel)[m
+[31m|[m * [1;34m004e1b4[m - [1;32m(2 minutes ago)[m [37mSaboteur strikes back 2[m [2;37m- Bernat[m[1;31m (origin/v1_devel_Ter_Pau, v1_devel_Ter_Pau)[m
+[31m|[m * [1;34m35178fa[m - [1;32m(16 minutes ago)[m [37mSaboteur strikes back[m [2;37m- Bernat[m[1;31m[m
+[31m|[m *   [1;34m7a6a91a[m - [1;32m(2 hours ago)[m [37mMerge branch 'maria_devel' into v1_devel_Ter_Pau[m [2;37m- Pau de la Venta[m[1;31m[m
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m|[m [1;34m273795c[m - [1;32m(2 hours ago)[m [37mRANDOM PTER[m [2;37m- Pau de la Venta[m[1;31m[m
+[31m|[m [34m|[m [34m|[m * [1;34m4e37e9f[m - [1;32m(22 minutes ago)[m [37mmario wins[m [2;37m- Dykmor[m[1;31m (origin/v1_devel_Perez_Daniel)[m
+[31m|[m [34m|[m[31m_[m[34m|[m[31m/[m  
+[31m|[m[31m/[m[34m|[m [34m|[m   
+* [34m|[m [34m|[m [1;34m406ddb1[m - [1;32m(32 minutes ago)[m [37mSaboteur[m [2;37m- Bernat[m[1;31m[m
+* [34m|[m [34m|[m   [1;34mde11e9f[m - [1;32m(47 minutes ago)[m [37mMerge tag 'v1_devel_F12' into v1_devel_Perez_Daniel[m [2;37m- Dykmor[m[1;31m[m
+[36m|[m[34m\[m [34m\[m [34m\[m  
+[36m|[m [34m|[m [34m|[m[34m/[m  
+[36m|[m [34m|[m[34m/[m[34m|[m   
+[36m|[m * [34m|[m [1;34m7df9ede[m - [1;32m(5 hours ago)[m [37mF12.2 tested[m [2;37m- Bernat[m[1;31m (tag: v1_devel_F12, origin/maria_devel, maria_devel)[m
+[36m|[m * [34m|[m [1;34m3c4740a[m - [1;32m(5 hours ago)[m [37mF12.1 tested[m [2;37m- Bernat[m[1;31m[m
+[36m|[m * [34m|[m [1;34mbec0604[m - [1;32m(5 hours ago)[m [37mdeveloping functionality F12[m [2;37m- Bernat[m[1;31m[m
+[36m|[m [34m|[m[34m/[m  
+* [34m|[m [1;34m3d386fc[m - [1;32m(54 minutes ago)[m [37mtemporaryTag[m [2;37m- Dykmor[m[1;31m[m
+[34m|[m[34m/[m  
+[34m|[m * [1;34mf478aea[m - [1;32m(5 hours ago)[m [37mbug fixing and test[m [2;37m- Bernat[m[1;31m (tag: v1_devel_F13, origin/toni_devel, toni_devel, origin)[m
+[34m|[m * [1;34m6e192b6[m - [1;32m(5 hours ago)[m [37mquick sort added[m [2;37m- Bernat[m[1;31m[m
+[34m|[m * [1;34m0220ac0[m - [1;32m(5 hours ago)[m [37mStarting F13 functionality[m [2;37m- Bernat[m[1;31m[m
+[34m|[m[34m/[m  
+* [1;34m886f961[m - [1;32m(6 hours ago)[m [37mapplication skeleton[m [2;37m- Bernat[m[1;31m (tag: v0, origin/master, origin/HEAD, master)[m
+* [1;34mcc627bf[m - [1;32m(6 hours ago)[m [37mInitial commit[m [2;37m- Bernat[m[1;31m[m
+* [1;34mf98b32d[m - [1;32m(6 hours ago)[m [37mInitial commit[m [2;37m- bernatorellana[m[1;31m[m
