@@ -3,10 +3,14 @@ package Fireworks;
 
 /**
  *
- * @author Dani & Bernat
+ * @author Dani & Bernat & l'Esperit Sant
  */
-private class Random {
+private class RandomNotAnymore {
 
-	// padaca bum !!!!!!
-    //This is a sabouteur class
+	// padaca bum !!!!!!xzzzzzzzzzzzz
+	// xccccccccccc
+    //This is a sabouteur class kkkkkkkkkkkkkkkkkkk
+	
+	/*
+	*/
 }
