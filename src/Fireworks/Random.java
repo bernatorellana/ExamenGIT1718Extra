@@ -5,8 +5,9 @@ package Fireworks;
  *
  * @author Dani & Bernat
  */
-private class Random {
+class Random {
 
-	// padaca bum !!!!!!
-    //This is a sabouteur class
+	   public static void main(String[] args) {
+               System.out.println("it's me mario");
+    }
 }
