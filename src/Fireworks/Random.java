@@ -1,5 +1,11 @@
 package Fireworks;
 
-public class Random{
-  System.out.println("RANDOM");
+/**
+ *
+ * @author Pau & Bernat
+ */
+private class Random {
+
+	// padaca bum !!!!!!
+    //This is a sabouteur class
 }
