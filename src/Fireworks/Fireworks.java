@@ -73,6 +73,12 @@ public class Fireworks extends Application {
 
     @Override public void stop() {
         sanFranciscoFireworks.stop();
+        
+         sanFranciscoFireworks.stop();
+        
+         sanFranciscoFireworks.stop();
+        
+        
     }
 
     public void play() {
