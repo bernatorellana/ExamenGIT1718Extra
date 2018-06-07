@@ -10,5 +10,18 @@ package Fireworks;
  * @author BERNAT
  */
 public class Petardo {
+    private String puff;
+
+    public Petardo(String puff) {
+        this.puff = puff;
+    }
+
+    public String getPuff() {
+        return puff;
+    }
+
+    public void setPuff(String puff) {
+        this.puff = puff;
+    }
     
 }
